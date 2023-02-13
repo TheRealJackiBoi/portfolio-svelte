@@ -1,7 +1,11 @@
 <script>
     import Card from "./card.svelte";
+    import HomeButton from "./home-button.svelte";
 
 </script>
+
+<HomeButton/>
+
 <h1>Datamatiker</h1>
 <h2>CPH Business Lyngby</h2>
 
