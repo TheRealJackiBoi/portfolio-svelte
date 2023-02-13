@@ -1,8 +1,9 @@
 <script>
     import Card from "./card.svelte";
     import CardOutsideLink from "./card-outside-link.svelte";
+    import HomeButton from "./home-button.svelte";
 </script>
-
+<HomeButton/>
 <h1>Computer Science</h1>
 <h2>Københavns Mediegymnasium</h2>
 
